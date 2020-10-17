@@ -1,0 +1,29 @@
+#+TITLE: the biggest slacker I know
+
+i mostly program in Go, Kotlin, and Java
+
+i have chronic distrohopping disorder
+
+currently on:
+
+#+begin_src
+[shadow@shadowraze ~]$ neofetch
+--------------------------------------   shadow@shadowraze
+--------------------------------------   -----------------
+--------------------------------------   OS: Bedrock Linux 0.7.18beta4 Poki x86_64
+---\\\\\\\\\\\\-----------------------   Host: HP Pavilion 15 Notebook PC 0975120000405F00000610180
+----\\\      \\\----------------------   Kernel: 5.9.0-zen1-1-zen
+-----\\\      \\\---------------------   Uptime: 4 hours, 19 mins
+------\\\      \\\\\\\\\\\\\\\\\------   Packages: 602 (pacman)
+-------\\\                    \\\-----   Shell: bash 5.0.18
+--------\\\                    \\\----   Resolution: 1366x768
+---------\\\        ______      \\\---   WM: spectrwm
+----------\\\                   ///---   Theme: FlatColor [GTK2/3]
+-----------\\\                 ///----   Icons: Papirus-Dark [GTK2/3]
+------------\\\               ///-----   Terminal: st
+-------------\\\////////////////------   Terminal Font: FantasqueSansMono Nerd Font
+--------------------------------------   CPU: AMD A10-5745M APU (4) @ 2.100GHz
+--------------------------------------   GPU: AMD ATI Radeon R7 M260/M265 / M340/M360 / M440/M445 / 530/535 / 620/625 Mobile
+--------------------------------------   GPU: AMD ATI Radeon HD 8610G
+                                         Memory: 2359MiB / 9146MiB
+#+end_src
