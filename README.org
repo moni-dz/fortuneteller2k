@@ -2,7 +2,7 @@
 
 i mostly program in Go, Kotlin, and Java
 
-i have chronic distrohopping disorder
++i have chronic distrohopping disorder+ (i'm cured)
 
 currently on:
 
@@ -12,18 +12,18 @@ fortuneteller2k at nixos in ~ ❯  neofetch
           ':::::    ':::::.  ::::'            ---------------------
             :::::     '::::.:::::             OS: NixOS 21.03 (Okapi) x86_64
       .......:::::..... ::::::::              Host: HP Pavilion 15 Notebook PC 0975120000405F00000610180
-     ::::::::::::::::::. ::::::    ::::.      Kernel: 5.4.77
-    ::::::::::::::::::::: :::::.  .::::'      Uptime: 5 hours, 33 mins
-           .....           ::::' :::::'       Packages: 516 (nix-system), 534 (nix-user)
-          :::::            '::' :::::'        Shell: bash 4.4.23
+     ::::::::::::::::::. ::::::    ::::.      Kernel: 5.9.13-zen1
+    ::::::::::::::::::::: :::::.  .::::'      Uptime: 5 hours, 15 mins
+           .....           ::::' :::::'       Packages: 713 (nix-system), 1747 (nix-user)
+          :::::            '::' :::::'        Shell: zsh 5.8
  ........:::::               ' :::::::::::.   Resolution: 1366x768
-:::::::::::::                 :::::::::::::   DE: none+spectrwm
- ::::::::::: ..              :::::            WM: spectrwm
+:::::::::::::                 :::::::::::::   DE: none+xmonad
+ ::::::::::: ..              :::::            WM: LG3D
      .::::: .:::            :::::             Theme: Dracula [GTK2/3]
-    .:::::  :::::          '''''    .....     Icons: Adwaita [GTK2/3]
+    .:::::  :::::          '''''    .....     Icons: Papirus-Dark [GTK2/3]
     :::::   ':::::.  ......:::::::::::::'     Terminal: alacritty
      :::     ::::::. ':::::::::::::::::'      CPU: AMD A10-5745M APU (4) @ 2.100GHz
-            .:::::::: '::::::::::             Memory: 1925MiB / 9156MiB
+            .:::::::: '::::::::::             Memory: 2073MiB / 9156MiB
            .::::''::::.     '::::.
           .::::'   ::::.     '::::.
          .::::      ::::      '::::.
