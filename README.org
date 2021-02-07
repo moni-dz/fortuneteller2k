@@ -1,30 +1,5 @@
-#+TITLE: the biggest slacker I know
+#+TITLE: how did you end up here?
 
-i mostly program in Go, Kotlin, and Java
+while your here, i'll just drop this
 
-+i have chronic distrohopping disorder+ (i'm cured)
-
-currently on:
-
-#+begin_src
-fortuneteller2k at nixos in ~ ❯  neofetch
-          ::::.    ':::::     ::::'           fortuneteller2k@nixos
-          ':::::    ':::::.  ::::'            ---------------------
-            :::::     '::::.:::::             OS: NixOS 21.03 (Okapi) x86_64
-      .......:::::..... ::::::::              Host: HP Pavilion 15 Notebook PC 0975120000405F00000610180
-     ::::::::::::::::::. ::::::    ::::.      Kernel: 5.9.13-zen1
-    ::::::::::::::::::::: :::::.  .::::'      Uptime: 5 hours, 15 mins
-           .....           ::::' :::::'       Packages: 713 (nix-system), 1747 (nix-user)
-          :::::            '::' :::::'        Shell: zsh 5.8
- ........:::::               ' :::::::::::.   Resolution: 1366x768
-:::::::::::::                 :::::::::::::   DE: none+xmonad
- ::::::::::: ..              :::::            WM: LG3D
-     .::::: .:::            :::::             Theme: Dracula [GTK2/3]
-    .:::::  :::::          '''''    .....     Icons: Papirus-Dark [GTK2/3]
-    :::::   ':::::.  ......:::::::::::::'     Terminal: alacritty
-     :::     ::::::. ':::::::::::::::::'      CPU: AMD A10-5745M APU (4) @ 2.100GHz
-            .:::::::: '::::::::::             Memory: 2073MiB / 9156MiB
-           .::::''::::.     '::::.
-          .::::'   ::::.     '::::.
-         .::::      ::::      '::::.
-#+end_src
+[[desktop.png]]
